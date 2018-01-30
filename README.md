@@ -8,3 +8,9 @@ This repository permit to construct and provide datasets for Hydrant detection a
 ## Dataset 1 : The hydrant echosystem
 
 This dataset provide a cell organized hydrant metrics : all features and elements are collected on a by cell manner
+
+```
+firestations.csv : firestation geometries
+hydrant.csv : hydrant geometries, with 
+```
+

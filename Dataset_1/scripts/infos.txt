@@ -1,0 +1,112 @@
+
+https://taginfo.openstreetmap.org/tags/emergency=fire_hydrant
+
+## combinaisons avec d'autres tags / clefs 
+
+https://taginfo.openstreetmap.org/tags/emergency=fire_hydrant#combinations
+
+## infos en json de tous les objets associés à fire_hydrant
+
+https://taginfo.openstreetmap.org/api/4/tag/stats?key=emergency&value=fire_hydrant&format=pretty_json
+
+## en json tous les autres tags pouvant être associés avec emergency=fire_hydrant
+
+https://taginfo.openstreetmap.org/api/4/tag/combinations?key=emergency&value=fire_hydrant
+        &filter=all&sortname=to_count&sortorder=desc&page=1&rp=14&qtype=other_tag&format=json_pretty
+
+
+Reponse :
+{
+  "url": "https://taginfo.openstreetmap.org/api/4/tag/combinations?key=emergency&value=fire_hydrant&filter=all&sortname=to_count&sortorder=desc&page=1&rp=14&qtype=other_tag&format=json_pretty",
+  "data_until": "2018-01-30T00:59:02Z",
+  "page": 1,
+  "rp": 14,
+  "total": 49,
+  "data": [    {
+      "other_key": "fire_hydrant:type",
+      "other_value": "",
+      "together_count": 664848,
+      "to_fraction": 0.8376,
+      "from_fraction": 0.998
+    },    {
+      "other_key": "fire_hydrant:diameter",
+      "other_value": "",
+      "together_count": 418274,
+      "to_fraction": 0.527,
+      "from_fraction": 0.9993
+    },    {
+      "other_key": "fire_hydrant:position",
+      "other_value": "",
+      "together_count": 329421,
+      "to_fraction": 0.415,
+      "from_fraction": 0.9982
+    },    {
+      "other_key": "ref",
+      "other_value": "",
+      "together_count": 191295,
+      "to_fraction": 0.241,
+      "from_fraction": 0.0188
+    },    {
+      "other_key": "source",
+      "other_value": "",
+      "together_count": 164504,
+      "to_fraction": 0.2073,
+      "from_fraction": 0.0009
+    },    {
+      "other_key": "operator",
+      "other_value": "",
+      "together_count": 97819,
+      "to_fraction": 0.1232,
+      "from_fraction": 0.0254
+    },    {
+      "other_key": "source",
+      "other_value": "GPS(APK:StrazakOSM)",
+      "together_count": 62216,
+      "to_fraction": 0.0784,
+      "from_fraction": 0.8637
+    },    {
+      "other_key": "name",
+      "other_value": "",
+      "together_count": 49807,
+      "to_fraction": 0.0628,
+      "from_fraction": 0.0008
+    },    {
+      "other_key": "fire_hydrant:pressure",
+      "other_value": "",
+      "together_count": 45638,
+      "to_fraction": 0.0575,
+      "from_fraction": 0.9936
+    },    {
+      "other_key": "fire_operator",
+      "other_value": "",
+      "together_count": 32773,
+      "to_fraction": 0.0413,
+      "from_fraction": 0.7768
+    },    {
+      "other_key": "working",
+      "other_value": "",
+      "together_count": 30934,
+      "to_fraction": 0.039,
+      "from_fraction": 0.9985
+    },    {
+      "other_key": "working",
+      "other_value": "yes",
+      "together_count": 29131,
+      "to_fraction": 0.0367,
+      "from_fraction": 0.9997
+    },    {
+      "other_key": "note",
+      "other_value": "",
+      "together_count": 28394,
+      "to_fraction": 0.0358,
+      "from_fraction": 0.0098
+    },    {
+      "other_key": "source",
+      "other_value": "survey",
+      "together_count": 27579,
+      "to_fraction": 0.0347,
+      "from_fraction": 0.0138
+    }]
+}        
+
+
